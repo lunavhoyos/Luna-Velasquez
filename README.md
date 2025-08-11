@@ -43,7 +43,7 @@
 
 ## 📊 Analítica y Métricas de Repositorios
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luna-Velasquez&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luna-Velasquez&layout=compact&theme=radical)
 ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=Luna-Velasquez&theme=radical)
 
