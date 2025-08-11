@@ -51,9 +51,7 @@
 
 ## 📫 Contacto
 
-- ✉ **Correo:** tuemail@example.com  
-- 💼 **LinkedIn:** [Tu Perfil](https://linkedin.com/in/tu-perfil)  
-- 🌐 **Portafolio:** [Tu Sitio Web](https://tusitio.com)  
+- ✉ **Correo:** lunavhoyos@gmail.com 
 
 ---
 
