@@ -40,16 +40,19 @@
 
 
 ## 📊 Analítica y Métricas de Repositorios
-
-
-## 📈 Analítica de Actividad
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=radical" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TU_USUARIO&theme=github-compact" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical)
 
 ---
+
+## 📊 Analítica de Commits
+
+![Commits](https://github-readme-stats.vercel.app/api?username=Samuelito&show_icons=true&theme=radical)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelito&layout=compact&theme=radical)
+
+---
+
 
 ## 📫 Contacto
 
