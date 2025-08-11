@@ -37,11 +37,17 @@
 
 ---
 
+
+
 ## 📊 Analítica y Métricas de Repositorios
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luna-Velasquez&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luna-Velasquez&layout=compact&theme=radical)
-![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=Luna-Velasquez&theme=radical)
+
+## 📈 Analítica de Actividad
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=radical" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TU_USUARIO&theme=github-compact" />
+</p>
 
 ---
 
